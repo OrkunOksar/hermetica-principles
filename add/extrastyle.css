@@ -9,3 +9,9 @@ details summary {
     font-family: Arial, Helvetica, sans-serif;
     text-transform: lowercase;
 }
+
+div {
+    border: thin dotted black;
+    padding: 12px 24px;
+    
+}
